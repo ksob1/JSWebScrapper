@@ -1,10 +1,3 @@
-/**
- * Dodatek autorstwa gracza Halt Arratay
- * Zabrania się:
- * Usuwania powyższego komentarza
- * Edycji dodatku bez wiedzy autora i zgody
- * Wykorzystywania całości lub części dodatku bez wiedzy i zgody autora
-**/
 (function(){
 Object.merge = function(target, args){
    'use strict'
